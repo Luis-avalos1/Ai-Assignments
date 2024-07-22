@@ -1,3 +1,4 @@
+
 public class twoComplimentAgent {
     
     // our binary string
